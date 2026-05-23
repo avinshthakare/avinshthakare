@@ -16,5 +16,5 @@ I am a Test Automation Engineer with over 6 years of experience specializing in 
 
 ### 📬 Connect With Me
 * 📧 Email: thakare.avinash.011@gmail.com
-* www.linkedin.com/in/avinash-thakare
+* 🔗 www.linkedin.com/in/avinash-thakare
 * 📍 Location: Pune, India
