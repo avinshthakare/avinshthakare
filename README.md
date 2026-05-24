@@ -39,6 +39,6 @@ I am a **QA Automation Engineer** with **6+ years of experience** specializing i
 
 <p align="left">
   <a href="https://avinash-thakare.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-avinash--thakare.lovable.app-24292E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Click%20here%20to%20view-black?logo=pfsense&logoColor=blue" alt="Portfolio" />
   </a>
 </p>
