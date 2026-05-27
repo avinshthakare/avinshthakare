@@ -38,7 +38,7 @@ I am a **QA Automation Engineer** with **6+ years of experience** specializing i
 ### 🌐 Explore My Work
 
 <p align="left">
-  <a href="https://avinash-thakare.lovable.app/">
+  <a href="https://avinashthakare.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Click%20here%20to%20view-black?logo=pfsense&logoColor=blue" alt="Portfolio" />
   </a>
 </p>
