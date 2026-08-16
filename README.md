@@ -13,8 +13,7 @@ I am a **QA Automation Engineer** with **6+ years of experience** specializing i
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=typescript&color=white
-) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Sahi Pro](https://img.shields.io/badge/Sahi%20Pro-green?style=flat-square&logo=testcafe&logoColor=black) |
 | **Frameworks** | ![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=flat-square&logo=junit5&logoColor=white) ![POM](https://img.shields.io/badge/Page%20Object%20Model-blue?style=flat-square) ![Data Driven](https://img.shields.io/badge/Data_Driven_Testing-4CAF50?style=flat-square) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
